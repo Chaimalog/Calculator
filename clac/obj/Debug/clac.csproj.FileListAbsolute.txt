@@ -1,0 +1,20 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\bin\Debug\clac.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\bin\Debug\clac.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\bin\Debug\clac.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.csprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.Form1.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.Properties.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.csproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\clac\clac\obj\Debug\clac.pdb
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\bin\Debug\clac.exe.config
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\bin\Debug\clac.exe
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\bin\Debug\clac.pdb
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.Form1.resources
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.Properties.Resources.resources
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.exe
+C:\Users\carlo\source\repos\clac_csharp\clac\clac\obj\Debug\clac.pdb
